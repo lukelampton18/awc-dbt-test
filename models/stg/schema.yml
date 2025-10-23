@@ -1,0 +1,6 @@
+
+version: 2
+
+models:
+    - name: arth 
+      description: "AR Transaction Header"
